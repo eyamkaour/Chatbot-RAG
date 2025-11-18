@@ -1,7 +1,9 @@
-
+# Ignorer l'environnement virtuel
 venv/
 
-
+# Ignorer le fichier d'environnement
 .env
 
-
+# (facultatif mais recommandé)
+__pycache__/
+*.pyc
